@@ -19,7 +19,8 @@ To set up the project, follow these steps:
 <li>Update the database credentials in the config.php file</li>
 <li>Place the project files in the web server's document root directory</li>
 <li>Access the project through a web browser</li>
-  </ol>
+ </ol>
+
 ## Usage
 The project has two main user roles: admin and student.
 
@@ -31,6 +32,7 @@ The admin panel is accessible by logging in with the admin credentials. From the
 <li>Manage exam data</li>
 <li>Generate reports on student performance</li>
   </ol>
+
 ### Student
 Students can access the system to view their grades and exam schedules.
 
