@@ -9,6 +9,7 @@ This project is an implementation of a database for an exam management system. I
 <li>Generate reports on student performance</li>
 <li>Admin panel for managing users and data</li>
   </ul>
+
 ## Setup
 To set up the project, follow these steps:
 
